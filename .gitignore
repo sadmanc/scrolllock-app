@@ -1,0 +1,20 @@
+# Xcode
+xcuserdata/
+DerivedData/
+.build/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Local test and diagnostic output
+*.log
+tmp/
+
+# Signing material and local secrets
+*.p12
+*.mobileprovision
+*.pem
+*.key
+.env
+.env.*
